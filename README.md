@@ -18,4 +18,6 @@ The positive images used to create this Haar cascade weere taken from the Chines
 
 The negative images that contain no humans were borrowed from [this github repo](https://github.com/handaga/tutorial-haartraining/tree/master/data/negatives).
 
+For more information about the theory behind cascade classifier training please see the OpenCV website [here](https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html)
+
 Note: positive and negative image folders and the Haar cascade tools from the University of Auckland were excluded from this repo because they were simply too large of folders to upload. Please see the above links for where the original source material can be found.
