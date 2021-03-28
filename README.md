@@ -2,6 +2,8 @@
 Using a Haar cascade trained using thousands of images and OpenCV, this project can detect humans from a live video feed.
 
 ## How To Run
+Note: while almost all (see note below) files and folders needed for the creation of this project were included here, only HumanDetector.py and HumanHaar.xml are needed for the program to run.
+
 Ensure you have [Python 3](https://www.python.org/download/releases/3.0/) and [OpenCV](https://opencv.org/) installed on your windows system. Download or clone the source code and navigate to the source code location in your terminal. Then simply run the program by envoking the HumanDetector.py file like so:
 ```
 cd C:\Users\Mason\Desktop\UTD Spring 2021\HackAI
@@ -16,4 +18,4 @@ The positive images used to create this Haar cascade weere taken from the Chines
 
 The negative images that contain no humans were borrowed from [this github repo](https://github.com/handaga/tutorial-haartraining/tree/master/data/negatives).
 
-Note: positive and negative image folders were excluded from this repo because they were simply too large of folders to upload. Please see the above two links for where the original source material can be found.
+Note: positive and negative image folders and the Haar cascade tools from the University of Auckland were excluded from this repo because they were simply too large of folders to upload. Please see the above links for where the original source material can be found.
