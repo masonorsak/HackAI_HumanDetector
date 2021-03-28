@@ -1,5 +1,5 @@
 # HackAI Human Detector
-Using a Haar cascade trained using thousands of images and OpenCV, this project can detect humans from a live video feed.
+Using a Haar cascade trained using thousands of images and OpenCV, this project can detect humans from a live video feed. See the project demo [here](https://www.youtube.com/watch?v=LOR-_iQCrAc)
 
 ## How To Run
 Note: while almost all (see note below) files and folders needed for the creation of this project were included here, only HumanDetector.py and HumanHaar.xml are needed for the program to run.
